@@ -474,7 +474,7 @@ For checkers that do not use the 'syntastic#makeprg#build()' function you
 will have to look at the source code of the checker in question. If there are
 specific options that can be set, these are usually documented in the wiki:
 
-    https://github.com/scrooloose/syntastic/wiki/Syntaxcheckers
+    https://github.com/scrooloose/syntastic/wiki/Syntax-Checkers
 
 ==============================================================================
 6. Notes                                                     *syntastic-notes*
